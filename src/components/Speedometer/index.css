@@ -1,0 +1,36 @@
+/* Write your CSS here */
+.image {
+  width: 40vw;
+  height: 40vh;
+}
+.container {
+  background-color: #07080c;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 50px;
+}
+* {
+  color: #ffffff;
+  font-family: 'Roboto';
+}
+.btn {
+  background-color: #0b69ff;
+  border-color: #0b69ff;
+  padding: 10px;
+  border-radius: 5px;
+  margin: 10px;
+}
+
+.btn2 {
+  background-color: #07080c;
+  border-color: #cbd5e1;
+  padding: 10px;
+  border-radius: 5px;
+  margin: 10px;
+  border-style: solid;
+}
+.para {
+  color: #94a3b8;
+}
